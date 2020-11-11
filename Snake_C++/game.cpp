@@ -153,7 +153,6 @@ void Logic()
 		fruitX = rand() % width;
 		fruitY = rand() % height;
 		nTail++;
-
 	}
 }
 
